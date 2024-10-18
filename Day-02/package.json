@@ -1,0 +1,17 @@
+{
+  "name": "day-02",
+  "version": "1.0.0",
+  "description": "Here I am Learning React",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "\"Sanni Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}

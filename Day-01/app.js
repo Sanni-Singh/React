@@ -1,3 +1,4 @@
+// -------------------------Day01------------------------------------------
 // const holding = React.createElement('h1',{
 //     id:"h1to",
 //     xnt:"abc"
@@ -20,10 +21,15 @@ let sol = React.createElement('div',{id:"one"},[
         React.createElement('h2',{},"Hello i am here to do parpit"),
     ]),
     React.createElement('div',{id:"there"},[
-        React.createElement('h3',{},"chl re vc"),
-        React.createElement('h4',{},"System fad dunga"),
-    ]),
+            React.createElement('h3',{},"chl re vc"),
+            React.createElement('h4',{},"System fad dunga"),
+    ])
 ]);
 
 let root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(sol);
+
+// Got Some error in this......
+
+
+// -------------------------------Day02-------------------------------------------------
